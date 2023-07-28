@@ -1,1 +1,0 @@
-# Demostore-automation-pytest-frontier
